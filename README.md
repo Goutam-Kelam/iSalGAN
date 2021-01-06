@@ -1,6 +1,6 @@
-## Official Repository of iSalGAN - improvised Saliency GAN
+## Official Repository of [iSalGAN - improvised Saliency GAN ](https://link.springer.com/chapter/10.1007/978-981-15-8697-2_20)
 
-
+  
 
 ## Important References
 
