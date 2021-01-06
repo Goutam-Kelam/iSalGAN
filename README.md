@@ -1,5 +1,4 @@
-# iSalGAN
-Official Repository of iSalGAN - improvised Saliency GAN
+# Official Repository of iSalGAN - improvised Saliency GAN
 
 # Cite
 
